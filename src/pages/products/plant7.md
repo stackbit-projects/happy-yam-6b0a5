@@ -8,6 +8,7 @@ default_original_image: images/plant7-lg.jpg
 order: 7
 category: src/pages/category/bigplants.md
 template: product
+featured: true
 ---
 
 # Sed consectetur
